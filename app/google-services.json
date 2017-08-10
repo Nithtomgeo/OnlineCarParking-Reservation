@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "153552049455",
+    "firebase_url": "https://ezparking-984f6.firebaseio.com",
+    "project_id": "ezparking-984f6",
+    "storage_bucket": "ezparking-984f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153552049455:android:de3b613e225971b5",
+        "android_client_info": {
+          "package_name": "com.example.wenqwang.ezparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153552049455-19bn7oierq7cbdn0gqckbmt53o13a2bt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wenqwang.ezparking",
+            "certificate_hash": "414435BA1C37360CB66941E7E4CC2F517989CC7E"
+          }
+        },
+        {
+          "client_id": "153552049455-otalt4d3hs45mbd6bemjom43uohokgcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ETKNcSXCnLwL4NOkYa_8-XyWhEsOqFk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153552049455-otalt4d3hs45mbd6bemjom43uohokgcp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
